@@ -1,0 +1,3 @@
+const authData = {
+    'RnCard-Identity-Account-Pass': 'M2ExMzVhYjg5MGFjMmFmZTY3MDdlODk1OGI1Mjc3Mzc=',
+    }
